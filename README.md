@@ -1,6 +1,8 @@
 # exercicios_com_git
 Fazendo alguns exercicios para familiarizar-se com git
 
+
+
 Para Levantar o servidor do php
 php -S localhost:8000
 
