@@ -30,6 +30,10 @@ git checkout coiurse-array-multi-d
 Toda vez que terminar uma video aula : 
 git add . git commit -m "nome do commit" git push
 
-Voltar a uma versão anterior  :
+Voltar a uma versão anterior  : 
 git reset --hard número_da_versão
+
+Histórico das versões  : 
+git reflog
+
 
