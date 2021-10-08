@@ -24,17 +24,23 @@ git pull
 Criar uma nova branch apartir de outra :
 git checkout -b coiurse-array-multi-d
 
-Entrar em uma branch que já existe :
-git checkout coiurse-array-multi-d
-
 Toda vez que terminar uma video aula : 
-git add . git commit -m "nome do commit" git push
+git add . // git commit -m "nome do commit" // git push
 
 Voltar a uma versão anterior  : 
 git reset --hard número_da_versão
 
 Histórico das versões  : 
 git reflog
+
+Ver a lista de branch  : 
+git branch
+
+Criar uma nova branch (não está dentro de outra branch)  : 
+git branch nome
+
+Entrar em uma branch que já existe :
+git checkout nome
 
 
 
